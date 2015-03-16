@@ -1,2 +1,2 @@
 # PHP
-PHP programs for my personal website
+PHP programs for my personal website.
